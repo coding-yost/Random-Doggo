@@ -1,0 +1,16 @@
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+#breeds-container {
+    columns: 100px;
+}
+
+#dog-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    max-height: 800px;
+}
